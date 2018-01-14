@@ -1,8 +1,8 @@
 #### Describe properties of Java String
 
-String is a class and immutable object. It can be created two way using object creation and another is string pool
-String str = “Hello World”
-String str = new String (“Helloworld”)
+String is a class and immutable object. It can be created two way using object creation and another is string pool <br />
+String str = “Hello World” <br />
+String str = new String (“Helloworld”) <br />
 In first case the string is created in String pool if we create new string having same content it doesnot create new it reference old one.
 If we create new String using new keyword it will create new object reference on heap memory.
 String is not thread safe. If we want to create thread safe we can use StringBuffer. 
