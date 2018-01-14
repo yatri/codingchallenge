@@ -46,4 +46,9 @@ if (m instanceof TextMessage) {
 ```
 
 * Closing the connection
+```java
+connection.close();
+```
 
+reference
+https://docs.oracle.com/cd/E19717-01/819-7757/aeqbm/index.html
