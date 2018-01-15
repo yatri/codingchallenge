@@ -1,2 +1,2 @@
 #### For the contact id  should be unique so defined as integer
-To print all the data we need iterator here i use list iterator because it has hasprevious hasnext next previous and we can add  and remove data while iterating.
+To print all the data we need iterator here i use list iterator because it has hasprevious hasnext next previous methods and we can add  and remove data while iterating.
