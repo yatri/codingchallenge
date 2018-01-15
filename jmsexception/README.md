@@ -25,3 +25,6 @@ likewise other jms excepptions are
 
 * TransactionRolledBackException
 
+reference
+https://docs.oracle.com/cd/E19798-01/821-1841/bncez/index.html
+
